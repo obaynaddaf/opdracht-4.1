@@ -1,0 +1,23 @@
+h1{
+    size: 24px;
+    color: blue;
+    font-weight: bold;
+}
+h2{
+    size:20px;
+    color: #0000ff;
+    font-weight: bold;
+}
+h3{
+    size: 16px;
+    color: teal;
+    font-weight: bold;
+}
+p{
+    color: #4D4D4D;
+    font-weight: bold;
+}
+a{
+    color:  is #8A2BE2;
+    text-decoration: none;
+}
