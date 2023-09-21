@@ -1,10 +1,10 @@
 h1{
-    size: 24px;
-    color: blue;
+    font-size: 24px;
+    color: gray;
     font-weight: bold;
 }
 h2{
-    size:20px;
+    font-size:20px;
     color: #0000ff;
     font-weight: bold;
 }
@@ -20,4 +20,30 @@ p{
 a{
     color:  is #8A2BE2;
     text-decoration: none;
+}
+header{
+    width: 100%;
+    min-height: 33vh;
+    text-align: center;
+    padding: 150px;
+    background: url(img/the\ last\ of\ us\ part\ 2.0.jpeg);
+    background-position:left;
+    background-size: 90%;
+    background-repeat: no-repeat;
+    
+}
+#p1{
+    color: gray;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#p1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+article{
+    border: 1px solid black;
+    border-width: medium;
+    border-radius: 15px;
+border: left 20px  dotted #f1c40f;
 }
